@@ -44,4 +44,19 @@ public class BrokenLinks_WebPage {
 		System.out.println("Total Number of Broken links present in the WebPage are:" + brokenLink);
 	}
 
+	public void hi() {
+		System.out.println("Hai");
+
+	}
+
+	public void helo() {
+		System.out.println("Helo");
+
+	}
+
+	public void bye() {
+		System.out.println("Tata");
+
+	}
+
 }
