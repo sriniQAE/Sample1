@@ -44,17 +44,17 @@ public class BrokenLinks_WebPage {
 		System.out.println("Total Number of Broken links present in the WebPage are:" + brokenLink);
 	}
 
-	public void hi() {
+	public void hi7() {
 		System.out.println("Hai");
 
 	}
 
-	public void helo() {
+	public void helo8() {
 		System.out.println("Helo");
 
 	}
 
-	public void bye() {
+	public void bye9() {
 		System.out.println("Tata");
 
 	}
